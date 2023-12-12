@@ -15,6 +15,6 @@ Random Forests provide feature importance scores, helping to identify which feat
 
 
 LSTM on Amazon:
-Here i followed the tutorial https://www.youtube.com/watch?v=q_HS4s1L8UI , where he uses a LSTM model to work with timeseries data, to predict the Amazon stock data.
+Here i followed the tutorial https://www.youtube.com/watch?v=q_HS4s1L8UI , where he uses a LSTM model to work with timeseries data, to predict the Amazon stock data. Model is highly overfitted and not suitable for trading bot. In general very hard to forecast stockprice only with historic stock data
 
 Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) architecture designed to address the vanishing gradient problem in traditional RNNs. LSTMs are particularly well-suited for handling sequences of data and are commonly used in tasks such as natural language processing, time series analysis, and speech recognition. 
